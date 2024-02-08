@@ -1,5 +1,6 @@
 In this project, let's build a **Cryptocurrency Tracker** by applying the concepts we have learned till now.
 
+Run this command : [npm install react-loader-spinner@4.0.0] every time when u run this code to install loader dependencies
 ### Refer to the image below:
 
 <br/>
